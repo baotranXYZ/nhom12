@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tran Thi Bao Tran</h1>
 
 
-- 👀 I’m interested in *Database*,....
 
 - 📫 How to reach me **btrann102@gmail.com**.
 
